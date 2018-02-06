@@ -45,6 +45,7 @@ Requires:   python-oslo-serialization
 Requires:   python-six
 Requires:   python-tenacity
 Requires:   python-urllib3
+Requires:   python-telemetry-tests-tempest
 
 %description -n python2-%{service}-tests-tempest
 %{common_desc}
