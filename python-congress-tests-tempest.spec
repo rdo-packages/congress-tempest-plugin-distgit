@@ -93,3 +93,4 @@ rm -rf doc/build/html/.{doctrees,buildinfo}
 %endif
 
 %changelog
+# REMOVEME: error caused by commit http://git.openstack.org/cgit/openstack/congress-tempest-plugin/commit/?id=3d3098c8938eec9fe427f3515c90787840d6c903
